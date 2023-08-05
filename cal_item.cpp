@@ -1,4 +1,4 @@
-
+//program to bill items 
 
 
 
@@ -47,7 +47,7 @@ int main()  {
 
 
     float total= myItem1.cost + myItem2.cost ;
-    cout << "total cost of your items is " << total ;
+    cout << "total cost of your items is $" << total ;
 
     
 

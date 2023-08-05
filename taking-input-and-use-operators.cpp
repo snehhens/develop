@@ -33,12 +33,13 @@ int main() {
 int main() {
    
 
-    int num1, num2, sum;
+    int num1, num2;
+    int sum;
     cout<<"Hey there! I'm Sneh.\n";
     cout<<"Please enter the first number: ";
     cin>>num1;
     cout<<"Great! Now, please enter the second number: ";
-    cin>>num2;13
+    cin>>num2;
     sum = num1+num2;
     cout<<"Awesome! The sum of " <<num1<<" and "<<num2<< " is: " <<sum <<endl;
     return 0;
